@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 Game = function() {
   this.rounds = 9;
   this.answers = [];
