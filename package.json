@@ -16,6 +16,7 @@
   "author": "Andrew Cookro",
   "license": "ISC",
   "dependencies": {
+    "cli": "^1.0.1",
     "commander": "^2.9.0"
   }
 }
